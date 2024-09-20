@@ -9,4 +9,4 @@ if(media < 7 ){
 alert(`voce esta aprovado com media ${media.toFixed(2)}`)
 }
 
-console.log(`codigo novo`)
+console.log('codigo novo')
